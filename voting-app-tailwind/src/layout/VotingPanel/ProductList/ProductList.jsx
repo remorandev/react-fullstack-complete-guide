@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { ProductService } from "../../../../data/ProductService";
+import { ProductService } from "../../../data/ProductService";
 import Product from "./Product/Product";
 
 export class ProductList extends Component {
